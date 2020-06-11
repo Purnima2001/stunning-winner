@@ -1,3 +1,4 @@
+/*author T.Purnima*/
 #include <stdio.h>
 #include <stdlib.h>
 /*
